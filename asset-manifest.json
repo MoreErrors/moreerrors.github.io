@@ -22,7 +22,7 @@
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
     "static/media/wowbeamb.png": "/static/media/wowbeamb.63f8fb6fdbd79b428d2b.png",
     "static/media/lightwave.svg": "/static/media/lightwave.d89f3766cb5dbf8ffa719bb666160b3f.svg",
-    "static/media/homepageGif2.gif": "./static/media/homepageGif2.421c85f1d8be90e1af31.gif",
+    "./static/media/homepageGif2.gif": "./static/media/homepageGif2.421c85f1d8be90e1af31.gif",
     "static/media/pixelartExample.png": "/static/media/pixelartExample.58c5973d6343b66515b9.png",
     "static/media/overmijskills.png": "/static/media/overmijskills.f6170d6fb2abc98aef18.png",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
